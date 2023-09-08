@@ -1,2 +1,2 @@
 # Taxi
-Desktop app for 'ordering' a taxi
+Use this desktop app to order fictional taxi
